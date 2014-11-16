@@ -10,7 +10,7 @@ npm install -g
 
 ## Using
 
-```bash
+```
 # Turn the current directory into a server on port 8080
 test-server
 
