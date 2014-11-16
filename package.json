@@ -1,0 +1,11 @@
+{	"name": "test-server",
+	"version": "0.0.1",
+	"dependencies": {
+		"node-static": "^0.7.6",
+		"commander": "^2.5.0"
+	},
+	"bin": {
+		"test-server": "command.js"
+	},
+	"license": "MIT"
+}
