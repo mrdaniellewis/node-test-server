@@ -1,5 +1,7 @@
 # Turn a directory into a static file server
 
+**Use "http-server"(https://www.npmjs.com/package/http-server) instead**
+
 Useful for testing.
 
 ## Installing
